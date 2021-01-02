@@ -1,4 +1,5 @@
 This is a example proyect for a fuctional api rest using:
+forked from mpetrone/scala-functional-rest-api
 
 * http4s for the http endponts
 * doobie for Db
